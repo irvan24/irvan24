@@ -48,8 +48,9 @@ I build **production-ready applications** with a strong emphasis on **clean code
 ![n8n](https://img.shields.io/badge/n8n-black?style=flat&logo=n8n)
 ![Stripe](https://img.shields.io/badge/Stripe-black?style=flat&logo=stripe)
 
----
+
 Certifications
+---
 <img width="90" height="90" alt="aws-certified-developer-associate (1)" src="https://github.com/user-attachments/assets/e52d1bf0-59e3-47a8-b93c-2507d4a824eb" />
 ---
 
